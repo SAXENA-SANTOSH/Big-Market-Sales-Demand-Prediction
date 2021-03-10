@@ -1,0 +1,47 @@
+2020-05-15/16:19:10		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052019_120210.csv
+2020-05-15/16:19:15		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052020_120211.csv
+2020-05-15/16:19:17		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052021_120212.csv
+2020-05-15/16:19:20		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052022_120213.csv
+2020-05-15/16:19:22		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052023_120214.csv
+2020-05-15/16:19:24		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/16:19:28		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_10052025_16.csv
+2020-05-15/16:31:06		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052019_120210.csv
+2020-05-15/16:31:06		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052020_120211.csv
+2020-05-15/16:31:06		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052021_120212.csv
+2020-05-15/16:31:06		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052022_120213.csv
+2020-05-15/16:31:06		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052023_120214.csv
+2020-05-15/16:31:06		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/16:31:06		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_10052025_16.csv
+2020-05-15/16:32:51		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052019_120210.csv
+2020-05-15/16:32:51		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052020_120211.csv
+2020-05-15/16:32:51		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052021_120212.csv
+2020-05-15/16:32:51		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052022_120213.csv
+2020-05-15/16:32:51		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052023_120214.csv
+2020-05-15/16:32:51		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/16:32:51		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_10052025_16.csv
+2020-05-15/16:35:48		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052019_120210.csv
+2020-05-15/16:35:48		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052020_120211.csv
+2020-05-15/16:35:48		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/16:35:48		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_10052025_16.csv
+2020-05-15/18:41:32		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052019_120210.csv
+2020-05-15/18:41:33		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052020_120211.csv
+2020-05-15/18:41:33		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/18:41:33		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_10052025_16.csv
+2020-05-15/18:43:42		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052019_120210.csv
+2020-05-15/18:43:42		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052020_120211.csv
+2020-05-15/18:43:42		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/18:43:42		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_10052025_16.csv
+2020-05-15/19:04:23		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052019_120210.csv
+2020-05-15/19:04:23		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052020_120211.csv
+2020-05-15/19:04:23		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052021_120212.csv
+2020-05-15/19:04:23		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052022_120213.csv
+2020-05-15/19:04:23		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052023_120214.csv
+2020-05-15/19:04:23		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/19:04:23		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_10052025_16.csv
+2020-05-15/19:04:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052019_120210.csv
+2020-05-15/19:04:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052020_120211.csv
+2020-05-15/19:04:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052021_120212.csv
+2020-05-15/19:04:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052022_120213.csv
+2020-05-15/19:04:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052023_120214.csv
+2020-05-15/19:04:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/19:04:49		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_10052025_16.csv

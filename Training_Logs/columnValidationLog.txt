@@ -1,0 +1,24 @@
+2020-05-15/16:19:29		Column Length Validation Started!!
+2020-05-15/16:19:29		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/16:19:29		Column Length Validation Completed!!
+2020-05-15/16:31:06		Column Length Validation Started!!
+2020-05-15/16:31:06		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/16:31:06		Column Length Validation Completed!!
+2020-05-15/16:32:51		Column Length Validation Started!!
+2020-05-15/16:32:51		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/16:32:51		Column Length Validation Completed!!
+2020-05-15/16:35:48		Column Length Validation Started!!
+2020-05-15/16:35:48		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/16:35:48		Column Length Validation Completed!!
+2020-05-15/18:41:33		Column Length Validation Started!!
+2020-05-15/18:41:33		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/18:41:33		Column Length Validation Completed!!
+2020-05-15/18:43:42		Column Length Validation Started!!
+2020-05-15/18:43:42		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/18:43:42		Column Length Validation Completed!!
+2020-05-15/19:04:23		Column Length Validation Started!!
+2020-05-15/19:04:23		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/19:04:23		Column Length Validation Completed!!
+2020-05-15/19:04:49		Column Length Validation Started!!
+2020-05-15/19:04:49		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052024_120215.csv
+2020-05-15/19:04:49		Column Length Validation Completed!!
