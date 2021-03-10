@@ -1,0 +1,171 @@
+2020-05-15/17:03:37		Start of Validation on files for prediction!!
+2020-05-15/17:03:37		Raw Data Validation Complete!!
+2020-05-15/17:03:37		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-15/17:03:41		Table creation Completed!!
+2020-05-15/17:03:41		Insertion of Data into Table started!!!!
+2020-05-15/17:03:43		Insertion in Table completed!!!
+2020-05-15/17:03:43		Deleting Good Data Folder!!!
+2020-05-15/17:03:43		Good_Data folder deleted!!!
+2020-05-15/17:03:43		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-15/17:03:43		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-15/17:03:43		Validation Operation completed!!
+2020-05-15/17:03:43		Extracting csv file from table
+2020-05-15/17:04:17		Start of Prediction
+2020-05-15/17:04:17		Entered the get_data method of the Data_Getter class
+2020-05-15/17:04:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-15/17:04:18		Entered the is_null_present method of the Preprocessor class
+2020-05-15/17:04:18		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-15/17:04:18		Entered the remove_columns method of the Preprocessor class
+2020-05-15/17:04:18		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-15/17:04:18		Error occured while running the prediction!! Error:: Found array with 0 sample(s) (shape=(0, 30)) while a minimum of 1 is required by StandardScaler.
+2020-05-15/17:05:17		Start of Validation on files for prediction!!
+2020-05-15/17:05:17		Raw Data Validation Complete!!
+2020-05-15/17:05:17		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-15/17:05:23		Table creation Completed!!
+2020-05-15/17:05:23		Insertion of Data into Table started!!!!
+2020-05-15/17:06:44		Insertion in Table completed!!!
+2020-05-15/17:06:44		Deleting Good Data Folder!!!
+2020-05-15/17:06:44		Good_Data folder deleted!!!
+2020-05-15/17:06:44		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-15/17:06:44		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-15/17:06:44		Validation Operation completed!!
+2020-05-15/17:06:44		Extracting csv file from table
+2020-05-15/17:07:06		Start of Prediction
+2020-05-15/17:07:07		Entered the get_data method of the Data_Getter class
+2020-05-15/17:07:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-15/17:07:12		Entered the is_null_present method of the Preprocessor class
+2020-05-15/17:07:12		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-15/17:07:15		Entered the remove_columns method of the Preprocessor class
+2020-05-15/17:07:15		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-15/17:07:25		Entered the load_model method of the File_Operation class
+2020-05-15/17:07:25		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/17:07:32		Entered the find_correct_model_file method of the File_Operation class
+2020-05-15/17:07:32		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-15/17:07:32		Entered the load_model method of the File_Operation class
+2020-05-15/17:07:32		Model File RandomForestRegressor1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/17:07:36		End of Prediction
+2020-05-15/17:10:30		Start of Validation on files for prediction!!
+2020-05-15/17:10:30		Raw Data Validation Complete!!
+2020-05-15/17:10:30		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-15/17:10:37		Table creation Completed!!
+2020-05-15/17:10:37		Insertion of Data into Table started!!!!
+2020-05-15/17:12:06		Insertion in Table completed!!!
+2020-05-15/17:12:06		Deleting Good Data Folder!!!
+2020-05-15/17:12:06		Good_Data folder deleted!!!
+2020-05-15/17:12:06		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-15/17:12:06		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-15/17:12:06		Validation Operation completed!!
+2020-05-15/17:12:06		Extracting csv file from table
+2020-05-15/17:12:08		Error occured while running the prediction!! Error:: [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Output_File/Predictions.csv'
+2020-05-15/17:12:59		Start of Prediction
+2020-05-15/17:12:59		Entered the get_data method of the Data_Getter class
+2020-05-15/17:12:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-15/17:13:02		Entered the is_null_present method of the Preprocessor class
+2020-05-15/17:13:02		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-15/17:13:02		Entered the remove_columns method of the Preprocessor class
+2020-05-15/17:13:02		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-15/17:13:02		Error occured while running the prediction!! Error:: Shape of passed values is (2002, 30), indices imply (2002, 32)
+2020-05-15/17:14:26		Start of Prediction
+2020-05-15/17:14:26		Entered the get_data method of the Data_Getter class
+2020-05-15/17:14:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-15/17:14:30		Entered the is_null_present method of the Preprocessor class
+2020-05-15/17:14:30		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-15/17:14:30		Entered the remove_columns method of the Preprocessor class
+2020-05-15/17:14:30		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-15/17:14:30		Entered the load_model method of the File_Operation class
+2020-05-15/17:14:30		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/17:14:30		Entered the find_correct_model_file method of the File_Operation class
+2020-05-15/17:14:30		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-15/17:14:30		Entered the load_model method of the File_Operation class
+2020-05-15/17:14:30		Model File RandomForestRegressor1 loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/17:14:41		End of Prediction
+2020-05-15/18:52:00		Start of Validation on files for prediction!!
+2020-05-15/18:52:01		Raw Data Validation Complete!!
+2020-05-15/18:52:01		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-15/18:52:08		Table creation Completed!!
+2020-05-15/18:52:08		Insertion of Data into Table started!!!!
+2020-05-15/18:53:27		Insertion in Table completed!!!
+2020-05-15/18:53:27		Deleting Good Data Folder!!!
+2020-05-15/18:53:27		Good_Data folder deleted!!!
+2020-05-15/18:53:27		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-15/18:53:27		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-15/18:53:27		Validation Operation completed!!
+2020-05-15/18:53:27		Extracting csv file from table
+2020-05-15/18:53:51		Start of Prediction
+2020-05-15/18:53:51		Entered the get_data method of the Data_Getter class
+2020-05-15/18:53:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-15/18:53:58		Entered the is_null_present method of the Preprocessor class
+2020-05-15/18:53:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-15/18:54:00		Entered the remove_columns method of the Preprocessor class
+2020-05-15/18:54:00		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-15/18:54:03		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-15/18:54:08		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-15/18:54:11		Entered the load_model method of the File_Operation class
+2020-05-15/18:54:11		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/18:54:14		Entered the find_correct_model_file method of the File_Operation class
+2020-05-15/18:54:14		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-15/18:54:14		Entered the load_model method of the File_Operation class
+2020-05-15/18:54:14		Model File LinearRegression0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/18:54:14		Error occured while running the prediction!! Error:: 'numpy.float64' object has no attribute 'predict'
+2020-05-15/18:54:41		Start of Validation on files for prediction!!
+2020-05-15/18:54:41		Raw Data Validation Complete!!
+2020-05-15/18:54:41		Creating Prediction_Database and tables on the basis of given schema!!!
+2020-05-15/18:54:44		Table creation Completed!!
+2020-05-15/18:54:44		Insertion of Data into Table started!!!!
+2020-05-15/18:56:11		Insertion in Table completed!!!
+2020-05-15/18:56:11		Deleting Good Data Folder!!!
+2020-05-15/18:56:11		Good_Data folder deleted!!!
+2020-05-15/18:56:11		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-15/18:56:11		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-15/18:56:11		Validation Operation completed!!
+2020-05-15/18:56:11		Extracting csv file from table
+2020-05-15/18:56:15		Start of Prediction
+2020-05-15/18:56:15		Entered the get_data method of the Data_Getter class
+2020-05-15/18:56:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-15/18:56:15		Entered the is_null_present method of the Preprocessor class
+2020-05-15/18:56:15		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-15/18:56:15		Entered the remove_columns method of the Preprocessor class
+2020-05-15/18:56:15		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-15/18:56:15		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-15/18:56:15		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-15/18:56:15		Entered the load_model method of the File_Operation class
+2020-05-15/18:56:15		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/18:56:16		Entered the find_correct_model_file method of the File_Operation class
+2020-05-15/18:56:16		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-15/18:56:16		Entered the load_model method of the File_Operation class
+2020-05-15/18:56:16		Model File LinearRegression0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/18:56:16		Error occured while running the prediction!! Error:: 'numpy.float64' object has no attribute 'predict'
+2020-05-15/18:56:43		Start of Prediction
+2020-05-15/18:56:43		Entered the get_data method of the Data_Getter class
+2020-05-15/18:56:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-15/18:56:43		Entered the is_null_present method of the Preprocessor class
+2020-05-15/18:56:43		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-15/18:56:43		Entered the remove_columns method of the Preprocessor class
+2020-05-15/18:56:43		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-15/18:56:43		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-15/18:56:43		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-15/18:56:43		Entered the load_model method of the File_Operation class
+2020-05-15/18:56:43		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/18:56:55		Entered the find_correct_model_file method of the File_Operation class
+2020-05-15/18:56:55		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-15/18:56:57		Entered the load_model method of the File_Operation class
+2020-05-15/18:56:57		Model File LinearRegression0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/18:57:26		Entered the load_model method of the File_Operation class
+2020-05-15/18:57:26		Model File LinearRegression0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/18:57:41		Error occured while running the prediction!! Error:: 'numpy.float64' object has no attribute 'predict'
+2020-05-15/19:13:27		Start of Prediction
+2020-05-15/19:13:27		Entered the get_data method of the Data_Getter class
+2020-05-15/19:13:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2020-05-15/19:13:28		Entered the is_null_present method of the Preprocessor class
+2020-05-15/19:13:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2020-05-15/19:13:28		Entered the remove_columns method of the Preprocessor class
+2020-05-15/19:13:28		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2020-05-15/19:13:28		Entered the scale_numerical_columns method of the Preprocessor class
+2020-05-15/19:13:28		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2020-05-15/19:13:28		Entered the load_model method of the File_Operation class
+2020-05-15/19:13:28		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/19:13:29		Entered the find_correct_model_file method of the File_Operation class
+2020-05-15/19:13:29		Exited the find_correct_model_file method of the Model_Finder class.
+2020-05-15/19:13:29		Entered the load_model method of the File_Operation class
+2020-05-15/19:13:29		Model File RandomForestRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2020-05-15/19:13:33		End of Prediction

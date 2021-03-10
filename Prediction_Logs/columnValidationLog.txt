@@ -1,0 +1,21 @@
+2020-05-15/16:58:29		Column Length Validation Started!!
+2020-05-15/16:58:29		Invalid Column Length for the file!! File moved to Bad Raw Folder :: cement_strength_08012020_120021.csv
+2020-05-15/16:58:29		Column Length Validation Completed!!
+2020-05-15/17:03:37		Column Length Validation Started!!
+2020-05-15/17:03:37		Column Length Validation Completed!!
+2020-05-15/17:05:17		Column Length Validation Started!!
+2020-05-15/17:05:17		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052028_120219.csv
+2020-05-15/17:05:17		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052029_120220.csv
+2020-05-15/17:05:17		Column Length Validation Completed!!
+2020-05-15/17:10:30		Column Length Validation Started!!
+2020-05-15/17:10:30		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052028_120219.csv
+2020-05-15/17:10:30		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052029_120220.csv
+2020-05-15/17:10:30		Column Length Validation Completed!!
+2020-05-15/18:52:00		Column Length Validation Started!!
+2020-05-15/18:52:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052028_120219.csv
+2020-05-15/18:52:01		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052029_120220.csv
+2020-05-15/18:52:01		Column Length Validation Completed!!
+2020-05-15/18:54:41		Column Length Validation Started!!
+2020-05-15/18:54:41		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052028_120219.csv
+2020-05-15/18:54:41		Invalid Column Length for the file!! File moved to Bad Raw Folder :: salesPrediction_10052029_120220.csv
+2020-05-15/18:54:41		Column Length Validation Completed!!
